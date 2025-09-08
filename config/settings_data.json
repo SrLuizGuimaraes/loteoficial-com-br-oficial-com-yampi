@@ -51,14 +51,10 @@
         "disabled": false,
         "settings": {}
       },
-      "5678403280364769424": {
-        "type": "shopify://apps/chatme-whatsapp-chat-button/blocks/whatsapp_chat/82a325f4-6a15-4805-9dd3-e0f4dff7694b",
+      "16963237191767492405": {
+        "type": "shopify://apps/whatsapp-button/blocks/app-embed-block/96d80a63-e860-4262-a001-8b82ac4d00e6",
         "disabled": false,
-        "settings": {
-          "country_code": "+55",
-          "whatsapp_phonenumber": 37991206495,
-          "whatsapp_message": "Oi, vim pelo site ! Você pode me ajudar?"
-        }
+        "settings": {}
       }
     }
   },
