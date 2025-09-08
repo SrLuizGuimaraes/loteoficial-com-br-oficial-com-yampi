@@ -78,6 +78,12 @@
             "text_color": ""
           }
         },
+        "liquid_JCMk8K": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% assign whatsapp_link = 'https://wa.me/5531995551983?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20produto%20' \n  | append: product.title | url_encode %}\n\n<a href=\"{{ whatsapp_link }}\" target=\"_blank\" rel=\"noopener\" class=\"btn-whatsapp\">\n  <img src=\"https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg\" alt=\"WhatsApp\" width=\"20\" height=\"20\" style=\"margin-right:8px;\">\n  Compre pelo WhatsApp\n</a>\n\n<style>\n.btn-whatsapp{display:inline-flex;align-items:center;justify-content:center;gap:8px;\nbackground:#25D366;color:#fff;font-weight:700;padding:12px 18px;border-radius:8px;\ntext-decoration:none;transition:.2s}\n.btn-whatsapp:hover{filter:brightness(0.92)}\n</style>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -110,6 +116,7 @@
         "variant_picker",
         "buy_buttons",
         "button_WJCqt7",
+        "liquid_JCMk8K",
         "separator",
         "description",
         "complementary_products"
