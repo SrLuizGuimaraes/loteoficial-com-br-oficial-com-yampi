@@ -71,7 +71,7 @@
           "type": "button",
           "name": "wpp",
           "settings": {
-            "link": "https://wa.me/5531995551983",
+            "link": "https://wa.me/5531995551983?text=Ol%C3%A1%2C%20tenho%20interesse%20no%20produto%20'    | append: product.title | url_encode",
             "text": "Compre pelo Whatsapp",
             "stretch": true,
             "background": "",
