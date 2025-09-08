@@ -69,6 +69,7 @@
         },
         "button_WJCqt7": {
           "type": "button",
+          "name": "wpp",
           "settings": {
             "link": "https://wa.me/5531995551983",
             "text": "Compre pelo Whatsapp",

@@ -130,8 +130,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      ".button {border: 0.1px solid black; /* Espessura, estilo e cor da borda */ padding: 10px 20px; /* Espaçamento interno */"
-    ]
+    "custom_css": []
   }
 }
