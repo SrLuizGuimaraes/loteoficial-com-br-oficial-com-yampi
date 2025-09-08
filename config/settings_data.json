@@ -55,8 +55,9 @@
         "type": "shopify://apps/chatme-whatsapp-chat-button/blocks/whatsapp_chat/82a325f4-6a15-4805-9dd3-e0f4dff7694b",
         "disabled": false,
         "settings": {
-          "country_code": "",
-          "whatsapp_message": "We are here to help you! Chat with us on WhatsApp for any queries."
+          "country_code": "+55",
+          "whatsapp_phonenumber": 31995551983,
+          "whatsapp_message": ""
         }
       }
     }
