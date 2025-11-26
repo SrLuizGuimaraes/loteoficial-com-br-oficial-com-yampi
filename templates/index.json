@@ -252,30 +252,6 @@
     },
     "media_grid_UHAF4y": {
       "type": "media-grid",
-      "blocks": {
-        "image_3UARrr": {
-          "type": "image",
-          "settings": {
-            "column_count": "3",
-            "row_count": 2,
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "button_background": "",
-            "button_text_color": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_3UARrr"
-      ],
       "custom_css": [
         ".media-grid:has(img) + .h2 {display: block; /* Mostra o texto se houver imagem */}",
         ".media-grid:not(:has(img)) + .h2 {display: none; /* Esconde o texto se não houver imagem */}",
