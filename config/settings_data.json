@@ -32,7 +32,7 @@
     "currency_code_enabled": false,
     "stagger_products_apparition": true,
     "round_color_swatches": true,
-    "color_swatch_config": "Preto: #000000\nCafé: #4B2E2A\nOff White: #F8F5F2\nBranco: #FFFFFF\nRosa: #FADADD\nBege: #D5B895\nCaramelo: #A45A2A\nAzul Royal: #0047AB\nAzul: #405DAA\nAzul Claro: #ADD8E6\nVerde Militar: #5A6F3C\nCinza:#808080\nVerde: #3A9D23\nCru: #E7DFC6\nTerra: #A0522D\nCacau: #7B3F00\nBege: #D2B48C\nMarrom: #654321",
+    "color_swatch_config": "Preto: #000000\nCafé: #4B2E2A\nOff White: #F8F5F2\nBranco: #FFFFFF\nRosa: #FADADD\nBege: #D5B895\nCaramelo: #A45A2A\nAzul Royal: #0047AB\nAzul: #405DAA\nAzul Claro: #ADD8E6\nVerde Militar: #5A6F3C\nCinza:#808080\nVerde: #3A9D23\nCru: #E7DFC6\nTerra: #A0522D\nCacau: #7B3F00\nBege: #D2B48C\nMarrom: #654321\nBordô: #800000",
     "product_card_text_font": "heading",
     "product_color_display": "hide",
     "show_product_rating": false,
